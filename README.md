@@ -2,7 +2,9 @@
 This project demonstrates a basic Hardhat use case. It comes with a ERC721 contract. Try running some of the following tasks:
 
 npx hardhat help
+
 npx hardhat node
+
 npx hardhat run scripts/deploy.js
 
 ![image](https://github.com/Armani7777/blockchain_3rd_assignment_hardhat/assets/134958781/361de901-c0b7-4389-925f-9cdebb10895c)
